@@ -1,6 +1,6 @@
 # f1_loading-screenV3_XMAS_V1
 
-https://forum.cfx.re/t/f1-loading-screen-v3/4828328
+https://forum.cfx.re/t/f1-loading-screen-v3-and-xmas-editions
 
 # Preview 
 
