@@ -5,6 +5,8 @@ author "F1"
 description "discord.gg/Nb23tC3wmA"
 version "3.1"
 
+client_script 'main.lua'
+
 files {
     'index.html',
     'audio/*.mp3',
@@ -14,7 +16,6 @@ files {
     'js/*.js',
     'js/snowStorm.js',
     'js/snowStorm-min.js',
-    'main.lua',
 }
 loadscreen_manual_shutdown 'yes'
 loadscreen 'index.html'
